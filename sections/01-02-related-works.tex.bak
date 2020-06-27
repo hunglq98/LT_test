@@ -1,0 +1,26 @@
+\documentclass[../main.tex]{subfiles}
+
+\begin{document}
+
+Các phương pháp tiếp cận bài toán thường rơi vào một trong các nhóm: dựa trên từ điển, dựa trên luật hoặc dùng mạng nơ-ron. Việc dựa vào từ điển sẽ tìm ra các tên trong một đoạn văn dựa vào một từ điển đã định nghĩa sẵn một cách thủ công hoặc tự động. Phương pháp sử dụng luật sẽ tận dụng những luật hoặc thành phần được định nghĩa từ trước để so khớp với tên thực thể. Phương pháp sử dụng mạng nơ-ron sẽ sử dụng các kĩ thuật để tạo thành mô hình dự đoán tên các thực thể đó. 
+
+\begin{itemize}
+
+
+\item Phương pháp dựa trên từ điển
+
+Phương pháp này cần trước một danh sách tên các thực thể Y Sinh đã biết, thường là lấy từ các cơ sở dữ liệu. Trong miền dữ liệu Y Sinh có một vài cơ sở dữ liệu như vậy cho gene (GeneBank), protein (UniProt) hay chất hóa học (ChemIDplus). Việc tìm kiếm tên sẽ dựa trên so khớp một phần hoặc so khớp toàn phần. Thế mạnh của phương pháp này là đơn giản và hiệu quả vì thuật toán so khớp xâu đã được nghiên cứu rất nhiều trong lĩnh vực khoa học máy tính. Vấn đề lớn nhất là độ chính xác không cao, lý giải là vì các cơ sở dữ liệu bao phủ không nhiều, thường là chuyên biệt về một vài loại thực thể và thường không cập nhật thường xuyên. Lý do khác có thể do sự biến đổi về mặt chính tả khi thay đổi thứ tự từ trong một thực thể hoặc các từ viết tắt. Một vài mô hình đã sử dụng phương pháp này và đạt kết quả bước đầu như  \cite{tsuruoka2003probabilistic}, \cite{tanabe2002tagging}, \cite{egorov2004simple}
+
+\item Tiếp cận dựa trên luật
+
+Phương pháp tiếp cận này sẽ phát hiện ra tên các thực thể dựa trên luật đã được định nghĩa từ trước. Các luật thường mô tả cấu trúc tên sử dụng hình thái từ các các đặc trưng khác ví dụ như việc kết hợp từ và số, sự xuất hiện của kí tự đặc biệt, các danh từ hay tính từ lạ. Có được những luật như vậy yêu cầu phải có kiến thức sâu về miền, về ngôn ngữ và cả ngôn ngữ lập trình. Điểm mạnh của phương pháp này là các thuật được thiết kế cẩn thận để giải quyết được đặc trưng về ngôn ngữ. 
+
+\item Phương pháp tiếp cận học máy
+
+Việc nhận diện tên thực thể Y Sinh thường được đưa về bài toán gán nhãn chuỗi với mục tiêu là gán một nhãn cho mỗi từ trong một chuỗi. Các hệ thống nhận diện tên thực thể Y Sinh đạt kết quả tốt nhất thường yêu cầu các đặc trưng định nghĩa thủ công như đặc trưng về chữ hoa, tiền tố hay hậu tố ... Các đặc trưng này sẽ được thiết kế riêng cho từng loại thực thể. Một vài mô hình như vậy đã được đề cập trong \cite{leaman2016taggerone}, \cite{huang2016community} hay \cite{zhou2004exploring}. Quá trình tạo ra các đặc trưng này chiếm phần lớn và thời gian và chi phí khi phát triển một hệ thống nhận diện tên thực thể \cite{leser2005makes}, đồng thời hướng đến các hệ thống đặc thù mà không thể trực tiếp sử dụng để nhận diện các loại thực thể khác. 
+
+Một vài nghiên cứu gần đây sử dụng mạng nơ-ron để tự đồng tạo ra các đặc trưng có giá trị như \cite{chiu2016named}, \cite{ma2016end}, \cite{lample2016neural}, \cite{liu2018empower}. Mô hình của Crichton lấy mỗi từ và các từ xung quanh làm ngữ cảnh thành đầu vào cho mạng nơ-ron tích chập (CNN). Habibi sử dụng mô hình giống với Lample, đồng thời thêm vào các word embedding làm đầu vào cho mạng BiLSTM-CRF. Các mô hình này giúp cho ta không phải tạo ra các đặc trưng một cách thủ công. Tuy nhiên, cũng các mô hình này yêu cầu hàng triệu tham số và cần dữ liệu rất lớn để ước lượng được các tham số đó. Điều này là thách thức với lĩnh vực Y Sinh khi những dữ liệu thô thì có nhiều nhưng những dữ liệu đã được gán nhãn thì lại rất mất công để thực hiện, đi kèm đó là tốn chi phí. Thế nên mặc dù các mạng nơ-ron cho thấy kết quả vượt trội với các phương pháp gán nhãn chuỗi truyền thống như mô hình CRF \cite{lafferty2001conditional}, các kết quả vẫn không vượt qua được những mô hình dựa trên đặc trưng thủ công. 
+
+\end{itemize}
+
+\end{document}

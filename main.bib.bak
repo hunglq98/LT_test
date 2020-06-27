@@ -1,0 +1,470 @@
+@inproceedings{Srihari2000,
+abstract = {This paper discusses an information extraction (IE) system, Textract, in natural language (NL) question answering (QA) and examines the role of IE in QA application. It shows: (i) Named Entity tagging is an important component for QA, (ii) an NL shallow parser provides a structural basis for questions, and (iii) high-level domain independent IE can result in a QA breakthrough.},
+author = {Srihari, Rohini and Li, Wei},
+doi = {10.3115/974147.974170},
+pages = {166--172},
+title = {A question answering system supported by information extraction},
+year = {2000},
+}
+
+
+
+@article{liu2014recursive,
+  title={A recursive recurrent neural network for statistical machine translation},
+  author={Liu, Shujie and Yang, Nan and Li, Mu and Zhou, Ming},
+  year={2014},
+}
+
+@article{bengio1994learning,
+  title={Learning long-term dependencies with gradient descent is difficult},
+  author={Bengio, Yoshua and Simard, Patrice and Frasconi, Paolo},
+  journal={IEEE transactions on neural networks},
+  volume={5},
+  number={2},
+  pages={157--166},
+  year={1994},
+  publisher={IEEE}
+}
+
+@book{koller2009probabilistic,
+  title={Probabilistic graphical models: principles and techniques},
+  author={Koller, Daphne and Friedman, Nir},
+  year={2009},
+  publisher={MIT press}
+}
+
+@article{learning7,
+  title={7] CK Chow and CN Liu, Approximating Discrete Probability Distribu-tions with Dependence Trees, IEEE Trans. Inform. Theory, IT-14, pages 462-467, 1968. 8] Kenneth W. Church and William A. Gale, A Comparison of the Enhanced},
+  author={Learning, Digits Using Backpropagation}
+}
+
+@article{lafferty2001conditional,
+  title={Conditional random fields: Probabilistic models for segmenting and labeling sequence data},
+  author={Lafferty, John and McCallum, Andrew and Pereira, Fernando CN},
+  year={2001}
+}
+
+@inproceedings{schmidt2008structure,
+  title={Structure learning in random fields for heart motion abnormality detection},
+  author={Schmidt, Mark and Murphy, Kevin and Fung, Glenn and Rosales, R{\'o}mer},
+  booktitle={2008 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1--8},
+  year={2008},
+  organization={IEEE}, 
+  hyphenation={english}
+}
+
+@inproceedings{vail2007conditional,
+  title={Conditional random fields for activity recognition},
+  author={Vail, Douglas L and Veloso, Manuela M and Lafferty, John D},
+  booktitle={Proceedings of the 6th international joint conference on Autonomous agents and multiagent systems},
+  pages={1--8},
+  year={2007}
+}
+
+@inproceedings{schmidt2008structure,
+  title={Structure learning in random fields for heart motion abnormality detection},
+  author={Schmidt, Mark and Murphy, Kevin and Fung, Glenn and Rosales, R{\'o}mer},
+  booktitle={2008 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1--8},
+  year={2008},
+  organization={IEEE}
+}
+
+@article{neufeld1993judea,
+  title={Judea Pearl. Probabilistic reasoning in intelligent systems: networks of plausible inference. Series in representation and reasoning. Morgan Kaufmann, San Mateo1988, xix+ 552 pp.},
+  author={Neufeld, Eric},
+  journal={The Journal of Symbolic Logic},
+  volume={58},
+  number={2},
+  pages={721--721},
+  year={1993},
+  publisher={Cambridge University Press}
+}
+
+@article{kindermann1980markov,
+  title={Markov random fields and their applications},
+  author={Kindermann, Ross},
+  journal={American mathematical society},
+  year={1980}
+}
+
+@article{rabiner1989tutorial,
+  title={A tutorial on hidden Markov models and selected applications in speech recognition},
+  author={Rabiner, Lawrence R},
+  journal={Proceedings of the IEEE},
+  volume={77},
+  number={2},
+  pages={257--286},
+  year={1989},
+  publisher={Ieee}
+}
+
+@article{zhang2001segmentation,
+  title={Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm},
+  author={Zhang, Yongyue and Brady, Michael and Smith, Stephen},
+  journal={IEEE transactions on medical imaging},
+  volume={20},
+  number={1},
+  pages={45--57},
+  year={2001},
+  publisher={Ieee}
+}
+
+@incollection{ghahramani2001introduction,
+  title={An introduction to hidden Markov models and Bayesian networks},
+  author={Ghahramani, Zoubin},
+  booktitle={Hidden Markov models: applications in computer vision},
+  pages={9--41},
+  year={2001},
+  publisher={World Scientific}
+}
+
+@inproceedings{ponomareva2007biomedical,
+  title={Biomedical named entity recognition: a poor knowledge HMM-based approach},
+  author={Ponomareva, Natalia and Pla, Ferran and Molina, Antonio and Rosso, Paolo},
+  booktitle={International Conference on Application of Natural Language to Information Systems},
+  pages={382--387},
+  year={2007},
+  organization={Springer}
+}
+
+@inproceedings{mccallum2000maximum,
+  title={Maximum Entropy Markov Models for Information Extraction and Segmentation.},
+  author={McCallum, Andrew and Freitag, Dayne and Pereira, Fernando CN},
+  booktitle={Icml},
+  volume={17},
+  number={2000},
+  pages={591--598},
+  year={2000}
+}
+
+@article{sutton2012introduction,
+  title={An introduction to conditional random fields},
+  author={Sutton, Charles and McCallum, Andrew and others},
+  journal={Foundations and Trends{\textregistered} in Machine Learning},
+  volume={4},
+  number={4},
+  pages={267--373},
+  year={2012},
+  publisher={Now Publishers, Inc.}
+}
+
+@inproceedings{ghosh2016part,
+  title={Part-of-speech tagging of code-mixed social media text},
+  author={Ghosh, Souvick and Ghosh, Satanu and Das, Dipankar},
+  booktitle={Proceedings of the Second Workshop on Computational Approaches to Code Switching},
+  pages={90--97},
+  year={2016}
+}
+
+@article{seker2017extending,
+  title={Extending a CRF-based named entity recognition model for Turkish well formed text and user generated content.},
+  author={Seker, G{\"o}khan Akin and Eryigit, G{\"u}lsen},
+  journal={Semantic Web},
+  volume={8},
+  number={5},
+  pages={625--642},
+  year={2017}
+}
+
+@inproceedings{ebersbach2016wrappers,
+  title={Wrappers for Feature Subset Selection in CRF-based Clinical Information Extraction.},
+  author={Ebersbach, Mike and Herms, Robert and Lohr, Christina and Eibl, Maximilian},
+  booktitle={CLEF (Working Notes)},
+  pages={69--80},
+  year={2016}
+}
+
+@incollection{radziszewski2013tiered,
+  title={A tiered CRF tagger for Polish},
+  author={Radziszewski, Adam},
+  booktitle={Intelligent tools for building a scientific information platform},
+  pages={215--230},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{morales2018protein,
+  title={Protein alignment based on higher order conditional random fields for template-based modeling},
+  author={Morales-Cordovilla, Juan A and Sanchez, Victoria and Ratajczak, Martin},
+  journal={PloS one},
+  volume={13},
+  number={6},
+  year={2018},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{johansen2017deep,
+  title={Deep recurrent conditional random field network for protein secondary prediction},
+  author={Johansen, Alexander Rosenberg and S{\o}nderby, Casper Kaae and S{\o}nderby, S{\o}ren Kaae and Winther, Ole},
+  booktitle={Proceedings of the 8th ACM international conference on bioinformatics, computational biology, and health informatics},
+  pages={73--78},
+  year={2017}
+}
+
+@phdthesis{yu2019named,
+  title={Named Entity Recognition With Deep Learning},
+  author={Yu, Haobin},
+  year={2019},
+  school={Auckland University of Technology}
+}
+
+@article{wallach2004conditional,
+  title={Conditional random fields: An introduction},
+  author={Wallach, Hanna M},
+  journal={Technical Reports (CIS)},
+  pages={22},
+  year={2004}
+}
+
+@article{lample2016neural,
+  title={Neural architectures for named entity recognition},
+  author={Lample, Guillaume and Ballesteros, Miguel and Subramanian, Sandeep and Kawakami, Kazuya and Dyer, Chris},
+  journal={arXiv preprint arXiv:1603.01360},
+  year={2016}
+}
+
+@article{luo2018attention,
+  title={An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition},
+  author={Luo, Ling and Yang, Zhihao and Yang, Pei and Zhang, Yin and Wang, Lei and Lin, Hongfei and Wang, Jian},
+  journal={Bioinformatics},
+  volume={34},
+  number={8},
+  pages={1381--1388},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{lu2015chemdner,
+  title={CHEMDNER system with mixed conditional random fields and multi-scale word clustering},
+  author={Lu, Yanan and Ji, Donghong and Yao, Xiaoyuan and Wei, Xiaomei and Liang, Xiaohui},
+  journal={Journal of cheminformatics},
+  volume={7},
+  number={S1},
+  pages={S4},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{leaman2016taggerone,
+  title={TaggerOne: joint named entity recognition and normalization with semi-Markov Models},
+  author={Leaman, Robert and Lu, Zhiyong},
+  journal={Bioinformatics},
+  volume={32},
+  number={18},
+  pages={2839--2846},
+  year={2016},
+  publisher={Oxford University Press}
+}
+
+@article{wang2018cross,
+  title={Cross-type biomedical named entity recognition with deep multi-task learning},
+  author={Wang, Xuan and Zhang, Yu and Ren, Xiang and Zhang, Yuhao and Zitnik, Marinka and Shang, Jingbo and Langlotz, Curtis and Han, Jiawei},
+  journal={Bioinformatics},
+  volume={35},
+  number={10},
+  pages={1745--1752},
+  year={2019},
+  publisher={Oxford University Press}
+}
+
+@inproceedings{collobert2008unified,
+  title={A unified architecture for natural language processing: Deep neural networks with multitask learning},
+  author={Collobert, Ronan and Weston, Jason},
+  booktitle={Proceedings of the 25th international conference on Machine learning},
+  pages={160--167},
+  year={2008}
+}
+
+@inproceedings{deng2013new,
+  title={New types of deep neural network learning for speech recognition and related applications: An overview},
+  author={Deng, Li and Hinton, Geoffrey and Kingsbury, Brian},
+  booktitle={2013 IEEE international conference on acoustics, speech and signal processing},
+  pages={8599--8603},
+  year={2013},
+  organization={IEEE}
+}
+
+@misc{he2015proceedings,
+  title={Proceedings of the IEEE international conference on computer vision},
+  author={He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{baxter1997bayesian,
+  title={A Bayesian/information theoretic model of learning to learn via multiple task sampling},
+  author={Baxter, Jonathan},
+  journal={Machine learning},
+  volume={28},
+  number={1},
+  pages={7--39},
+  year={1997},
+  publisher={Springer}, 
+  hyphenation={english}, 
+  language={english}
+
+}
+
+@inproceedings{mikolov2013distributed,
+  title={Distributed representations of words and phrases and their compositionality},
+  author={Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg S and Dean, Jeff},
+  booktitle={Advances in neural information processing systems},
+  pages={3111--3119},
+  year={2013}
+}
+
+@article{smith2008overview,
+  title={Overview of BioCreative II gene mention recognition},
+  author={Smith, Larry and Tanabe, Lorraine K and nee Ando, Rie Johnson and Kuo, Cheng-Ju and Chung, I-Fang and Hsu, Chun-Nan and Lin, Yu-Shi and Klinger, Roman and Friedrich, Christoph M and Ganchev, Kuzman and others},
+  journal={Genome biology},
+  volume={9},
+  number={S2},
+  pages={S2},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{cokol2005emergent,
+  title={Emergent behavior of growing knowledge about molecular interactions},
+  author={Cokol, Murat and Iossifov, Ivan and Weinreb, Chani and Rzhetsky, Andrey},
+  journal={Nature biotechnology},
+  volume={23},
+  number={10},
+  pages={1243--1247},
+  year={2005},
+  publisher={Nature Publishing Group}
+}
+
+
+
+@article{zhou2004recognizing,
+  title={Recognizing names in biomedical texts: a machine learning approach},
+  author={Zhou, Guodong and Zhang, Jie and Su, Jian and Shen, Dan and Tan, Chewlim},
+  journal={Bioinformatics},
+  volume={20},
+  number={7},
+  pages={1178--1190},
+  year={2004},
+  publisher={Oxford University Press}
+}
+
+
+
+@article{chang2004gapscore,
+  title={GAPSCORE: finding gene and protein names one word at a time},
+  author={Chang, Jeffrey T and Sch{\"u}tze, Hinrich and Altman, Russ B},
+  journal={Bioinformatics},
+  volume={20},
+  number={2},
+  pages={216--225},
+  year={2004},
+  publisher={Oxford University Press}
+}
+
+@article{huang2016community,
+  title={Community challenges in biomedical text mining over 10 years: success, failure and the future},
+  author={Huang, Chung-Chi and Lu, Zhiyong},
+  journal={Briefings in bioinformatics},
+  volume={17},
+  number={1},
+  pages={132--144},
+  year={2016},
+  publisher={Oxford University Press}
+}
+
+@inproceedings{zhou2004exploring,
+  title={Exploring deep knowledge resources in biomedical name recognition},
+  author={Zhou, GuoDong and Su, Jian},
+  booktitle={Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)},
+  pages={99--102},
+  year={2004}
+}
+
+@article{leser2005makes,
+  title={What makes a gene name? Named entity recognition in the biomedical literature},
+  author={Leser, Ulf and Hakenberg, J{\"o}rg},
+  journal={Briefings in bioinformatics},
+  volume={6},
+  number={4},
+  pages={357--369},
+  year={2005},
+  publisher={Henry Stewart Publications}
+}
+
+@article{chiu2016named,
+  title={Named entity recognition with bidirectional LSTM-CNNs},
+  author={Chiu, Jason PC and Nichols, Eric},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={4},
+  pages={357--370},
+  year={2016},
+  publisher={MIT Press}
+}
+
+@article{ma2016end,
+  title={End-to-end sequence labeling via bi-directional lstm-cnns-crf},
+  author={Ma, Xuezhe and Hovy, Eduard},
+  journal={arXiv preprint arXiv:1603.01354},
+  year={2016}
+}
+
+@inproceedings{liu2018empower,
+  title={Empower sequence labeling with task-aware neural language model},
+  author={Liu, Liyuan and Shang, Jingbo and Ren, Xiang and Xu, Frank Fangzheng and Gui, Huan and Peng, Jian and Han, Jiawei},
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+  year={2018}
+}
+
+@article{crichton2017neural,
+  title={A neural network multi-task learning approach to biomedical named entity recognition},
+  author={Crichton, Gamal and Pyysalo, Sampo and Chiu, Billy and Korhonen, Anna},
+  journal={BMC bioinformatics},
+  volume={18},
+  number={1},
+  pages={368},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{hirschman2002rutabaga,
+  title={Rutabaga by any other name: extracting biological names},
+  author={Hirschman, Lynette and Morgan, Alexander A and Yeh, Alexander S},
+  journal={Journal of Biomedical Informatics},
+  volume={35},
+  number={4},
+  pages={247--259},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@inproceedings{tsuruoka2003probabilistic,
+  title={Probabilistic term variant generator for biomedical terms},
+  author={Tsuruoka, Yoshimasa and Tsujii, Jun'ichi},
+  booktitle={Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval},
+  pages={167--173},
+  year={2003}
+}
+
+@article{tanabe2002tagging,
+  title={Tagging gene and protein names in biomedical text},
+  author={Tanabe, Lorraine and Wilbur, W John},
+  journal={Bioinformatics},
+  volume={18},
+  number={8},
+  pages={1124--1132},
+  year={2002},
+  publisher={Oxford University Press}
+}
+
+@article{egorov2004simple,
+  title={A simple and practical dictionary-based approach for identification of proteins in MEDLINE abstracts},
+  author={Egorov, Sergei and Yuryev, Anton and Daraselia, Nikolai},
+  journal={Journal of the American Medical Informatics Association},
+  volume={11},
+  number={3},
+  pages={174--178},
+  year={2004},
+  publisher={BMJ Group BMA House, Tavistock Square, London, WC1H 9JR}
+}

@@ -1,0 +1,68 @@
+\documentclass[../main.tex]{subfiles}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \draw[line width = 4pt] ($(current page.north west) + (1in,-1in)$) rectangle ($(current page.south east) + (-1in,1in)$);
+\end{tikzpicture}
+
+\begin{center}
+  \fontsize{12pt}{12pt} \textbf{Đại học Quốc gia Hà Nội}\\
+  \fontsize{12pt}{12pt} \textbf{Đại học Công nghệ}\\
+  
+  \begin{figure}[h]
+    	\includegraphics[scale=0.2]{logo}
+	  \centering
+  \end{figure}
+
+  \fontsize{14pt}{14pt} \textbf{Lê Quang Hưng} \\
+  \vspace{2cm}
+  \fontsize{18pt}{18pt} \textbf{Nhận diện chéo tên thực thể y sinh sử dụng } \\
+  \fontsize{18pt}{18pt} \textbf{học sâu đa tác vụ} \\
+
+  \vspace{3cm}
+  \fontsize{14pt}{14pt} \textbf{Chuyên ngành: Công nghệ thông tin}
+
+  \vfill
+  \fontsize{12pt}{12pt} \textbf{Hà Nội - 2020}
+
+\end{center}
+
+\newpage
+
+\clearpage
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \draw[line width = 4pt] ($(current page.north west) + (1in,-1in)$) rectangle ($(current page.south east) + (-1in,1in)$);
+\end{tikzpicture}
+
+\begin{center}
+  \fontsize{12pt}{12pt} \textbf{Đại học Quốc gia Hà Nội}\\
+  \fontsize{12pt}{12pt} \textbf{Đại học Công nghệ}\\
+ 
+  \vspace{2cm}
+  \fontsize{14pt}{14pt} \textbf{Lê Quang Hưng}
+
+  \vspace{2cm}
+  \fontsize{18pt}{18pt} \textbf{Nhận diện chéo tên thực thể y sinh sử dụng } \\
+  \fontsize{18pt}{18pt} \textbf{học sâu đa tác vụ} \\
+
+\end{center}
+
+\vspace{3cm}
+\fontsize{14pt}{14pt} \textbf{Chuyên ngành: Công nghệ thông tin}
+
+\vspace{2cm}
+\fontsize{14pt}{14pt} \textbf{Giảng viên hướng dẫn: TS Đặng Thanh Hải}\\
+
+\vfill
+\begin{center}
+  \fontsize{12pt}{12pt} \textbf{Hà Nội - 2020}
+\end{center}
+
+\end{titlepage}
+
+\end{document}

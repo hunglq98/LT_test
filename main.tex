@@ -1,0 +1,85 @@
+\documentclass[13pt]{scrbook}
+\usepackage[a4paper,left=3cm,right=2cm,top=3cm,bottom=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[utf8]{vietnam}
+\usepackage[vietnamese=nohyphenation]{hyphsubst}
+\usepackage[english, vietnamese]{babel}
+\usepackage{subfiles}
+\usepackage{indentfirst}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage{titlesec}
+\usepackage[colorlinks=true]{hyperref}
+\usepackage[maxnames=4,backend=biber, babel=other, language=english]{biblatex}
+\usepackage{tikz}
+\usepackage{siunitx}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage{tabto}
+\usepackage[skins,listings,breakable]{tcolorbox}
+\usepackage{multirow}
+
+
+\graphicspath{ {images/} } 
+\addbibresource{main.bib}
+\nocite{*}
+
+\setlength\parindent{1cm}
+\setlength{\parskip}{6pt}
+\renewcommand{\baselinestretch}{1.3}
+
+\usetikzlibrary{calc}
+
+\let\cleardoublepage\clearpage
+\KOMAoptions{twoside=false}
+
+
+
+\begin{document}
+
+\subfile{sections/00-00-cover}
+
+\frontmatter
+
+\subfile{sections/00-02-abstract}
+
+
+\tableofcontents
+\mainmatter
+
+\listoftables
+\listoffigures
+
+\chapter{Giới thiệu}
+\subfile{sections/01-00-introduction}
+\chapter{Cơ sở lý thuyết}
+\section{Bài toán nhận diện tên thực thể Y-Sinh}
+\subfile{sections/02-01-problems}
+\section{Word Embedding}
+\subfile{sections/02-02-word-embedding}
+\section{Mạng Long Short-Term Memory}
+\subsection{RNN}
+\subfile{sections/02-03-RNN}
+\subsection{LSTM}
+\subfile{sections/02-04-LSTM}
+\section{HMM}
+\subfile{sections/02-07-HMM}
+\section{CRF}
+\subfile{sections/02-05-CRF}
+\section{Học đa tác vụ}
+\subfile{sections/02-06-Multitask}
+\chapter{Phương pháp giải quyết vấn đề}
+\subfile{sections/03-00-intro-solution}
+\subfile{sections/03-01-solution-architecture-STL}
+\chapter{Thực nghiệm, kết quả, so sánh}
+\subfile{sections/04-00-Dataset}
+\chapter{Kết luận}
+\subfile{sections/05-conclusion}
+\chapter{Tham khảo}
+\selectlanguage{english}
+\printbibliography[heading=None]
+
+
+
+\end{document}

@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[96] biber-MSWIN64:322> INFO - === 
+[120] Biber.pm:415> INFO - Reading 'main.bcf'
+[265] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[320] Biber.pm:4256> INFO - Processing section 0
+[321] Utils.pm:75> INFO - Globbing data source 'main.bib'
+[338] Utils.pm:91> INFO - Globbed data source 'main.bib' to main.bib
+[363] Biber.pm:4455> INFO - Looking for bibtex format file 'main.bib' for section 0
+[368] bibtex.pm:1653> INFO - LaTeX decoding ...
+[476] bibtex.pm:1471> INFO - Found BibTeX data source 'main.bib'
+[479] Utils.pm:304> WARN - Duplicate entry key: 'schmidt2008structure' in file 'main.bib', skipping ...
+[947] UCollate.pm:68> INFO - Overriding locale 'vi-VN' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[947] UCollate.pm:68> INFO - Overriding locale 'vi-VN' defaults 'variable = shifted' with 'variable = non-ignorable'
+[948] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'vi-VN'
+[1042] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1091] bbl.pm:755> INFO - Output to main.bbl
+[1093] Biber.pm:128> INFO - WARNINGS: 1

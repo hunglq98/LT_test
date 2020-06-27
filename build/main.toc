@@ -1,0 +1,214 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {vietnamese}{}
+\contentsline {chapter}{\numberline {1}Giới thiệu}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Hoàn cảnh nghiên cứu}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Giới thiệu về toán nhận diện tên thực thể Y Sinh}{4}{subsection.1.1.1}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {subsection}{\numberline {1.1.2}Các nghiên cứu liên quan}{8}{subsection.1.1.2}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {section}{\numberline {1.2}Cấu trúc khóa luận}{10}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Cơ sở lý thuyết}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Bài toán nhận diện tên thực thể Y-Sinh}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Word Embedding}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Word2Vec}{14}{subsection.2.2.1}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {subsection}{\numberline {2.2.2}fastText}{15}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}BioWordVec}{15}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}LSTM}{16}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}RNN}{16}{subsection.2.3.1}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {subsection}{\numberline {2.3.2}LSTM}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Bước $1$}{19}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Bước $2$}{19}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Bước $3$}{20}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Bước 4}{21}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}HMM}{21}{section.2.4}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {section}{\numberline {2.5}CRF}{23}{section.2.5}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {section}{\numberline {2.6}Học đa tác vụ}{25}{section.2.6}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {chapter}{\numberline {3}Phương pháp giải quyết vấn đề}{29}{chapter.3}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {chapter}{\numberline {4}Thực nghiệm, kết quả, so sánh}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tập dữ liệu}{36}{section.4.1}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {section}{\numberline {4.2}Cách đánh giá}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Môi trường và các tham số}{38}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Các thực nghiệm}{38}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Kết luận}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Tham khảo}{45}{chapter.6}%
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}

@@ -1,0 +1,204 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {vietnamese}{}
+\addvspace {10\p@ }
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ví dụ của việc gán nhãn chuỗi với bộ nhãn BIOES\relax }}{12}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ví dụ xử lý vector one-hot trong một mô hình\relax }}{13}{figure.caption.7}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Mô hình mạng nơ-ron hồi quy\relax }}{17}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Mô hình mạng nơ-ron hồi quy chưa phân rã và đã phân rã\relax }}{17}{figure.caption.9}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Mô hình LSTM\relax }}{19}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Kiến trúc mô hình LSTM tại mỗi điểm thời gian $t$\relax }}{20}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Kiến trúc mạng BiLSTM, các $w_{1}$, $w_{2}$, ... là các đầu vào\relax }}{21}{figure.caption.12}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Cấu trúc của HMM\relax }}{22}{figure.caption.13}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Cấu trúc của mô hình chuỗi tuyến tính CRF\relax }}{25}{figure.caption.14}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Mô tả cấu trúc việc chia sẻ cố định các tham số\relax }}{27}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Mô tả cấu trúc việc chia sẻ linh hoạt các tham số\relax }}{28}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Kiến trúc mạng nơ-ron. Câu đầu vào là từ một văn bản Y Sinh. Các hình chữ nhật mô tả embedding của từ và các kí tự. Hình chữ nhật có viền tròn thể hiện kết quả việc sử dụng BiLSTM trên mức kí tự. Hình chữ nhật viền tròn có màu bên trong thể hiện kết quả việc sử dụng BiLSTM trên mức từ. Hình lục giác thể hiện phép gộp các kết quả lại với nhau. Các nhãn trên cùng là 'O' hay 'S-GENE' thể hiện đầu ra của tầng CRF - là các nhãn của thực thể cho mỗi từ trong một câu\relax }}{30}{figure.caption.17}%
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Mô hình học đa tác vụ. Hình tròn màu trắng thể hiện embedding của các kí tự. Hình chữ nhật có viền tròn thể hiện thông tin về kí tự khi đi qua BiLSTM. Hình tròn có màu xanh thể hiện embedding ở mức từ. Hình chữ nhật viền tròn có màu xanh thể hiện thông tin ở mức từ khi đi qua BiLSTM. Hình vuông thể hiện lớp CRF. Tham số về từ và kí tự được sử dụng chung cho tất cả các tác vụ\relax }}{35}{figure.caption.19}%
+\addvspace {10\p@ }
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\babel@toc {english}{}
+\babel@toc {vietnamese}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
